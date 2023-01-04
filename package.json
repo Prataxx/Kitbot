@@ -1,0 +1,15 @@
+{
+  "name": "kitbot",
+  "version": "1.0.0",
+  "description": "Kitbot for 0b0t",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Pratax#3702",
+  "license": "",
+  "dependencies": {
+    "@discordjs/collection": "^1.1.0",
+    "mineflayer": "^4.4.0"
+  }
+}
