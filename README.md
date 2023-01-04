@@ -49,6 +49,8 @@ Start the bot
 npm run start
 ```
 
+**Make Sure that the Bot spawn on top of a Pressure plate!**
+
 
 ## Your own command
 
