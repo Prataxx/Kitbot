@@ -17,7 +17,7 @@
 
 ## Running the Bot
 
-Clone the project or Download the Project
+Clone or Download the project
 
 ```bash
 git clone https://github.com/Prataxx/Kitbot
@@ -72,4 +72,9 @@ module.exports = {
 ## Support
 
 For support, join the Discord Server: https://imr19.xyz/discord
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
