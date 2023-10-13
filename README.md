@@ -36,6 +36,7 @@ npm install
 ```
 
 Fill out the config.json file
+
 ```
   owner    = Your Minecraft Username
   email    = Your Email with Minecraft on the account
@@ -49,7 +50,7 @@ Start the bot
 npm run start
 ```
 
-**Make Sure that the Bot spawn on top of a Pressure plate!**
+**Make Sure that the Bot spawns on top of a pressure plate!**
 
 
 ## Your own command
@@ -57,6 +58,7 @@ npm run start
 To create a new command, create a new file inside the commands folder.
 
 Use this Template to code your own command.
+
 ```javascript
 module.exports = {
   name: "NAME_OF_YOUR_COMMAND",
