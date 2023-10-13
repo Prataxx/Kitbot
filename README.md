@@ -4,7 +4,7 @@
 
 ## Authors
 
-- [@Pratax - Pratax#3702](https://www.github.com/Prataxx)
+- [@Pratax]([https://www.github.com/Prataxx](https://discord.com/users/897497942116663317))
 
 
 ## Features
@@ -71,7 +71,7 @@ module.exports = {
 
 ## Support
 
-For support, join the Discord Server: https://imr19.xyz/discord
+Message me on [Discord](https://discord.com/users/897497942116663317)
 
 
 ## License
