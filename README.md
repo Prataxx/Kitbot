@@ -4,7 +4,7 @@
 
 ## Authors
 
-- [Pratax]([https://www.github.com/Prataxx](https://discord.com/users/897497942116663317))
+[@Pratax]([https://www.github.com/Prataxx](https://discord.com/users/897497942116663317))
 
 
 ## Features
